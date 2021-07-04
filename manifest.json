@@ -8,9 +8,7 @@
         "scripts": ["background.js"]
     },
     "permissions": [
-        "webNavigation"
-    ],
-    "optional_permissions" : [
+        "webNavigation",
         "*://*/*",
         "http://*/",
         "https://*/"
